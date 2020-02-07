@@ -1,4 +1,4 @@
-Construindo seu primeiro Portfólio Web!
+<strong>Construindo seu primeiro Portfólio Web!</strong>
 
 
 Seu Portfólio Web deve ter as seguintes informações:
